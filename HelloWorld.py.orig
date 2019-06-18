@@ -8,4 +8,8 @@ Created on Tue Jun 18 12:53:50 2019
 print('hello world!')
 print('This is added by Roy')
 print('This is written by Maurits')
-print('adding this code')print('But I updated it before')
+<<<<<<< HEAD
+print('adding this code')
+=======
+print('But I updated it before')
+>>>>>>> 767bc8b6831d2b72eed42b7a800a7f1557b9c07d
